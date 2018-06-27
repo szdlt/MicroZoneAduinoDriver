@@ -1,7 +1,4 @@
 #include "include.h"
-//����:�������ֻ������Ƽ����޹�˾
-//���ǵĵ���:lobot-zone.taobao.com
-
 static bool UartBusy = FALSE;
 uint16 BatteryVoltage;
 PS2X ps2X;                                      
